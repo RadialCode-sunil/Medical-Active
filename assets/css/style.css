@@ -310,6 +310,9 @@ nav ul li a:hover {
 .slick-prev {
     display: none !important;
 }
+.slick-dots li button:before {
+  display: none;
+}
 
 /* Email */
 .email {
